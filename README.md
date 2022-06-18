@@ -1,0 +1,2 @@
+# Yosse
+Exponential idle
